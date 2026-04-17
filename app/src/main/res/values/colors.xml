@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="slate_900">#0F172A</color>
+    <color name="slate_800">#1E293B</color>
+    <color name="slate_700">#334155</color>
+    <color name="surface_bg">#F5F5F5</color>
+    <color name="surface_card">#FFFFFFFF</color>
+    <color name="surface_soft">#E2E8F0</color>
+    <color name="surface_tint">#EEF2F7</color>
+    <color name="teal_600">#0F766E</color>
+    <color name="teal_100">#D7F3EF</color>
+    <color name="sky_500">#2563EB</color>
+    <color name="sky_100">#DBEAFE</color>
+    <color name="amber_600">#B45309</color>
+    <color name="amber_100">#FEF3C7</color>
+    <color name="red_600">#DC2626</color>
+    <color name="red_100">#FEE2E2</color>
+    <color name="green_600">#15803D</color>
+    <color name="green_100">#DCFCE7</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="divider">#CBD5E1</color>
+    <color name="shadow_soft">#140E1E2E</color>
+    <color name="slate_600">#475569</color>
+    <color name="surface_dark">#111827</color>
+    <color name="mint_100">#DCFCE7</color>
+    <color name="admin_header">#EAF1F8</color>
+    <color name="admin_header_stroke">#D5E0EC</color>
+    <color name="admin_metric">#F8FAFC</color>
+    <color name="admin_metric_alt">#EFF6FF</color>
+    <color name="admin_metric_warn">#FFFBEB</color>
+</resources>
